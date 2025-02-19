@@ -1,17 +1,12 @@
 [
  {
   "id": 1,
-  "title": "Complete Golang project",
+  "title": "Buy Laptop",
   "done": true
  },
  {
   "id": 2,
   "title": "Buy groceries",
-  "done": false
- },
- {
-  "id": 3,
-  "title": "Buys Toys",
-  "done": false
+  "done": true
  }
 ]
